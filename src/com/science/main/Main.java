@@ -33,7 +33,6 @@ public class Main {
 
 	public static void main(String args[]) {
 		findDensity();
-		// there is no need to be upset - ninjaflame555
 	}
 
 }
